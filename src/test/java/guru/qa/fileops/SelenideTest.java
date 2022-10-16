@@ -1,4 +1,4 @@
-package guru.qa.fileOperations;
+package guru.qa.fileops;
 
 import org.junit.jupiter.api.Test;
 
